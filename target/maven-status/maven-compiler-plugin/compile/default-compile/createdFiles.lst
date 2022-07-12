@@ -1,0 +1,11 @@
+hello\Model\FullFileReport.class
+hello\Model\Scan.class
+hello\Model\FullIpReport.class
+hello\VirusTotalService.class
+hello\VirusTotal.class
+hello\VirusTotalController.class
+hello\VirusTotalUrl.class
+hello\Model\Resolution.class
+hello\Application.class
+hello\Utilities.class
+hello\Model\Scans.class
